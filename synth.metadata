@@ -3,8 +3,8 @@
     {
       "git": {
         "name": ".",
-        "remote": "git@github.com:googleapis/nodejs-dataproc-metastore.git",
-        "sha": "2789dc733c46b35b73147925f65de1228a74a087"
+        "remote": "https://github.com/googleapis/nodejs-dataproc-metastore.git",
+        "sha": "54c3a73b7939d2b3be9fcffb273d61baee2aadb9"
       }
     },
     {
