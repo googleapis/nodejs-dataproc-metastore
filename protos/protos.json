@@ -2485,6 +2485,7 @@
                 "v1beta": {
                   "options": {
                     "go_package": "google.golang.org/genproto/googleapis/cloud/metastore/v1beta;metastore",
+                    "php_namespace": "Google\\Cloud\\Metastore\\V1beta",
                     "java_multiple_files": true,
                     "java_outer_classname": "MetastoreProto",
                     "java_package": "com.google.cloud.metastore.v1beta",
