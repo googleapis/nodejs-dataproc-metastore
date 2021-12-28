@@ -12,5 +12,5 @@
   "name": "metastore",
   "issue_tracker": "https://github.com/googleapis/nodejs-dataproc-metastore/issues",
   "api_shortname": "metastore",
-  "library_type": ""
+  "library_type": "GAPIC_AUTO"
 }
