@@ -260,105 +260,105 @@ export namespace google {
                 namespace DataprocMetastore {
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#listServices}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|listServices}.
                      * @param error Error, if any
                      * @param [response] ListServicesResponse
                      */
                     type ListServicesCallback = (error: (Error|null), response?: google.cloud.metastore.v1.ListServicesResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#getService}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|getService}.
                      * @param error Error, if any
                      * @param [response] Service
                      */
                     type GetServiceCallback = (error: (Error|null), response?: google.cloud.metastore.v1.Service) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#createService}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|createService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#updateService}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|updateService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#deleteService}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|deleteService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type DeleteServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#listMetadataImports}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|listMetadataImports}.
                      * @param error Error, if any
                      * @param [response] ListMetadataImportsResponse
                      */
                     type ListMetadataImportsCallback = (error: (Error|null), response?: google.cloud.metastore.v1.ListMetadataImportsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#getMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|getMetadataImport}.
                      * @param error Error, if any
                      * @param [response] MetadataImport
                      */
                     type GetMetadataImportCallback = (error: (Error|null), response?: google.cloud.metastore.v1.MetadataImport) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#createMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|createMetadataImport}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateMetadataImportCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#updateMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|updateMetadataImport}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateMetadataImportCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#exportMetadata}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|exportMetadata}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type ExportMetadataCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#restoreService}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|restoreService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type RestoreServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#listBackups}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|listBackups}.
                      * @param error Error, if any
                      * @param [response] ListBackupsResponse
                      */
                     type ListBackupsCallback = (error: (Error|null), response?: google.cloud.metastore.v1.ListBackupsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#getBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|getBackup}.
                      * @param error Error, if any
                      * @param [response] Backup
                      */
                     type GetBackupCallback = (error: (Error|null), response?: google.cloud.metastore.v1.Backup) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#createBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|createBackup}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateBackupCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#deleteBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|deleteBackup}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
@@ -4229,105 +4229,105 @@ export namespace google {
                 namespace DataprocMetastore {
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#listServices}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|listServices}.
                      * @param error Error, if any
                      * @param [response] ListServicesResponse
                      */
                     type ListServicesCallback = (error: (Error|null), response?: google.cloud.metastore.v1alpha.ListServicesResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#getService}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|getService}.
                      * @param error Error, if any
                      * @param [response] Service
                      */
                     type GetServiceCallback = (error: (Error|null), response?: google.cloud.metastore.v1alpha.Service) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#createService}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|createService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#updateService}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|updateService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#deleteService}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|deleteService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type DeleteServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#listMetadataImports}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|listMetadataImports}.
                      * @param error Error, if any
                      * @param [response] ListMetadataImportsResponse
                      */
                     type ListMetadataImportsCallback = (error: (Error|null), response?: google.cloud.metastore.v1alpha.ListMetadataImportsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#getMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|getMetadataImport}.
                      * @param error Error, if any
                      * @param [response] MetadataImport
                      */
                     type GetMetadataImportCallback = (error: (Error|null), response?: google.cloud.metastore.v1alpha.MetadataImport) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#createMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|createMetadataImport}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateMetadataImportCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#updateMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|updateMetadataImport}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateMetadataImportCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#exportMetadata}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|exportMetadata}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type ExportMetadataCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#restoreService}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|restoreService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type RestoreServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#listBackups}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|listBackups}.
                      * @param error Error, if any
                      * @param [response] ListBackupsResponse
                      */
                     type ListBackupsCallback = (error: (Error|null), response?: google.cloud.metastore.v1alpha.ListBackupsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#getBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|getBackup}.
                      * @param error Error, if any
                      * @param [response] Backup
                      */
                     type GetBackupCallback = (error: (Error|null), response?: google.cloud.metastore.v1alpha.Backup) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#createBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|createBackup}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateBackupCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#deleteBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|deleteBackup}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
@@ -9007,105 +9007,105 @@ export namespace google {
                 namespace DataprocMetastore {
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#listServices}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|listServices}.
                      * @param error Error, if any
                      * @param [response] ListServicesResponse
                      */
                     type ListServicesCallback = (error: (Error|null), response?: google.cloud.metastore.v1beta.ListServicesResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#getService}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|getService}.
                      * @param error Error, if any
                      * @param [response] Service
                      */
                     type GetServiceCallback = (error: (Error|null), response?: google.cloud.metastore.v1beta.Service) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#createService}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|createService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#updateService}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|updateService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#deleteService}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|deleteService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type DeleteServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#listMetadataImports}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|listMetadataImports}.
                      * @param error Error, if any
                      * @param [response] ListMetadataImportsResponse
                      */
                     type ListMetadataImportsCallback = (error: (Error|null), response?: google.cloud.metastore.v1beta.ListMetadataImportsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#getMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|getMetadataImport}.
                      * @param error Error, if any
                      * @param [response] MetadataImport
                      */
                     type GetMetadataImportCallback = (error: (Error|null), response?: google.cloud.metastore.v1beta.MetadataImport) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#createMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|createMetadataImport}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateMetadataImportCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#updateMetadataImport}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|updateMetadataImport}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateMetadataImportCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#exportMetadata}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|exportMetadata}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type ExportMetadataCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#restoreService}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|restoreService}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type RestoreServiceCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#listBackups}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|listBackups}.
                      * @param error Error, if any
                      * @param [response] ListBackupsResponse
                      */
                     type ListBackupsCallback = (error: (Error|null), response?: google.cloud.metastore.v1beta.ListBackupsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#getBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|getBackup}.
                      * @param error Error, if any
                      * @param [response] Backup
                      */
                     type GetBackupCallback = (error: (Error|null), response?: google.cloud.metastore.v1beta.Backup) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#createBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|createBackup}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateBackupCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#deleteBackup}.
+                     * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|deleteBackup}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
@@ -15366,6 +15366,9 @@ export namespace google {
             /** FieldOptions lazy */
             lazy?: (boolean|null);
 
+            /** FieldOptions unverifiedLazy */
+            unverifiedLazy?: (boolean|null);
+
             /** FieldOptions deprecated */
             deprecated?: (boolean|null);
 
@@ -15402,6 +15405,9 @@ export namespace google {
 
             /** FieldOptions lazy. */
             public lazy: boolean;
+
+            /** FieldOptions unverifiedLazy. */
+            public unverifiedLazy: boolean;
 
             /** FieldOptions deprecated. */
             public deprecated: boolean;
@@ -18014,35 +18020,35 @@ export namespace google {
         namespace Operations {
 
             /**
-             * Callback as used by {@link google.longrunning.Operations#listOperations}.
+             * Callback as used by {@link google.longrunning.Operations|listOperations}.
              * @param error Error, if any
              * @param [response] ListOperationsResponse
              */
             type ListOperationsCallback = (error: (Error|null), response?: google.longrunning.ListOperationsResponse) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations#getOperation}.
+             * Callback as used by {@link google.longrunning.Operations|getOperation}.
              * @param error Error, if any
              * @param [response] Operation
              */
             type GetOperationCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations#deleteOperation}.
+             * Callback as used by {@link google.longrunning.Operations|deleteOperation}.
              * @param error Error, if any
              * @param [response] Empty
              */
             type DeleteOperationCallback = (error: (Error|null), response?: google.protobuf.Empty) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations#cancelOperation}.
+             * Callback as used by {@link google.longrunning.Operations|cancelOperation}.
              * @param error Error, if any
              * @param [response] Empty
              */
             type CancelOperationCallback = (error: (Error|null), response?: google.protobuf.Empty) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations#waitOperation}.
+             * Callback as used by {@link google.longrunning.Operations|waitOperation}.
              * @param error Error, if any
              * @param [response] Operation
              */

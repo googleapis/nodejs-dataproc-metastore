@@ -99,7 +99,7 @@
                         };
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#listServices}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|listServices}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef ListServicesCallback
                          * @type {function}
@@ -132,7 +132,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#getService}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|getService}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef GetServiceCallback
                          * @type {function}
@@ -165,7 +165,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#createService}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|createService}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef CreateServiceCallback
                          * @type {function}
@@ -198,7 +198,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#updateService}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|updateService}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef UpdateServiceCallback
                          * @type {function}
@@ -231,7 +231,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#deleteService}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|deleteService}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef DeleteServiceCallback
                          * @type {function}
@@ -264,7 +264,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#listMetadataImports}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|listMetadataImports}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef ListMetadataImportsCallback
                          * @type {function}
@@ -297,7 +297,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#getMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|getMetadataImport}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef GetMetadataImportCallback
                          * @type {function}
@@ -330,7 +330,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#createMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|createMetadataImport}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef CreateMetadataImportCallback
                          * @type {function}
@@ -363,7 +363,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#updateMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|updateMetadataImport}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef UpdateMetadataImportCallback
                          * @type {function}
@@ -396,7 +396,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#exportMetadata}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|exportMetadata}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef ExportMetadataCallback
                          * @type {function}
@@ -429,7 +429,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#restoreService}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|restoreService}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef RestoreServiceCallback
                          * @type {function}
@@ -462,7 +462,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#listBackups}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|listBackups}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef ListBackupsCallback
                          * @type {function}
@@ -495,7 +495,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#getBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|getBackup}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef GetBackupCallback
                          * @type {function}
@@ -528,7 +528,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#createBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|createBackup}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef CreateBackupCallback
                          * @type {function}
@@ -561,7 +561,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore#deleteBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1.DataprocMetastore|deleteBackup}.
                          * @memberof google.cloud.metastore.v1.DataprocMetastore
                          * @typedef DeleteBackupCallback
                          * @type {function}
@@ -9822,7 +9822,7 @@
                         };
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#listServices}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|listServices}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef ListServicesCallback
                          * @type {function}
@@ -9855,7 +9855,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#getService}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|getService}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef GetServiceCallback
                          * @type {function}
@@ -9888,7 +9888,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#createService}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|createService}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef CreateServiceCallback
                          * @type {function}
@@ -9921,7 +9921,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#updateService}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|updateService}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef UpdateServiceCallback
                          * @type {function}
@@ -9954,7 +9954,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#deleteService}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|deleteService}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef DeleteServiceCallback
                          * @type {function}
@@ -9987,7 +9987,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#listMetadataImports}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|listMetadataImports}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef ListMetadataImportsCallback
                          * @type {function}
@@ -10020,7 +10020,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#getMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|getMetadataImport}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef GetMetadataImportCallback
                          * @type {function}
@@ -10053,7 +10053,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#createMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|createMetadataImport}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef CreateMetadataImportCallback
                          * @type {function}
@@ -10086,7 +10086,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#updateMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|updateMetadataImport}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef UpdateMetadataImportCallback
                          * @type {function}
@@ -10119,7 +10119,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#exportMetadata}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|exportMetadata}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef ExportMetadataCallback
                          * @type {function}
@@ -10152,7 +10152,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#restoreService}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|restoreService}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef RestoreServiceCallback
                          * @type {function}
@@ -10185,7 +10185,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#listBackups}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|listBackups}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef ListBackupsCallback
                          * @type {function}
@@ -10218,7 +10218,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#getBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|getBackup}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef GetBackupCallback
                          * @type {function}
@@ -10251,7 +10251,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#createBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|createBackup}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef CreateBackupCallback
                          * @type {function}
@@ -10284,7 +10284,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore#deleteBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1alpha.DataprocMetastore|deleteBackup}.
                          * @memberof google.cloud.metastore.v1alpha.DataprocMetastore
                          * @typedef DeleteBackupCallback
                          * @type {function}
@@ -21543,7 +21543,7 @@
                         };
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#listServices}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|listServices}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef ListServicesCallback
                          * @type {function}
@@ -21576,7 +21576,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#getService}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|getService}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef GetServiceCallback
                          * @type {function}
@@ -21609,7 +21609,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#createService}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|createService}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef CreateServiceCallback
                          * @type {function}
@@ -21642,7 +21642,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#updateService}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|updateService}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef UpdateServiceCallback
                          * @type {function}
@@ -21675,7 +21675,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#deleteService}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|deleteService}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef DeleteServiceCallback
                          * @type {function}
@@ -21708,7 +21708,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#listMetadataImports}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|listMetadataImports}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef ListMetadataImportsCallback
                          * @type {function}
@@ -21741,7 +21741,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#getMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|getMetadataImport}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef GetMetadataImportCallback
                          * @type {function}
@@ -21774,7 +21774,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#createMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|createMetadataImport}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef CreateMetadataImportCallback
                          * @type {function}
@@ -21807,7 +21807,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#updateMetadataImport}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|updateMetadataImport}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef UpdateMetadataImportCallback
                          * @type {function}
@@ -21840,7 +21840,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#exportMetadata}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|exportMetadata}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef ExportMetadataCallback
                          * @type {function}
@@ -21873,7 +21873,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#restoreService}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|restoreService}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef RestoreServiceCallback
                          * @type {function}
@@ -21906,7 +21906,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#listBackups}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|listBackups}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef ListBackupsCallback
                          * @type {function}
@@ -21939,7 +21939,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#getBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|getBackup}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef GetBackupCallback
                          * @type {function}
@@ -21972,7 +21972,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#createBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|createBackup}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef CreateBackupCallback
                          * @type {function}
@@ -22005,7 +22005,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore#deleteBackup}.
+                         * Callback as used by {@link google.cloud.metastore.v1beta.DataprocMetastore|deleteBackup}.
                          * @memberof google.cloud.metastore.v1beta.DataprocMetastore
                          * @typedef DeleteBackupCallback
                          * @type {function}
@@ -38371,6 +38371,7 @@
                  * @property {boolean|null} [packed] FieldOptions packed
                  * @property {google.protobuf.FieldOptions.JSType|null} [jstype] FieldOptions jstype
                  * @property {boolean|null} [lazy] FieldOptions lazy
+                 * @property {boolean|null} [unverifiedLazy] FieldOptions unverifiedLazy
                  * @property {boolean|null} [deprecated] FieldOptions deprecated
                  * @property {boolean|null} [weak] FieldOptions weak
                  * @property {Array.<google.protobuf.IUninterpretedOption>|null} [uninterpretedOption] FieldOptions uninterpretedOption
@@ -38426,6 +38427,14 @@
                  * @instance
                  */
                 FieldOptions.prototype.lazy = false;
+    
+                /**
+                 * FieldOptions unverifiedLazy.
+                 * @member {boolean} unverifiedLazy
+                 * @memberof google.protobuf.FieldOptions
+                 * @instance
+                 */
+                FieldOptions.prototype.unverifiedLazy = false;
     
                 /**
                  * FieldOptions deprecated.
@@ -38503,6 +38512,8 @@
                         writer.uint32(/* id 6, wireType 0 =*/48).int32(message.jstype);
                     if (message.weak != null && Object.hasOwnProperty.call(message, "weak"))
                         writer.uint32(/* id 10, wireType 0 =*/80).bool(message.weak);
+                    if (message.unverifiedLazy != null && Object.hasOwnProperty.call(message, "unverifiedLazy"))
+                        writer.uint32(/* id 15, wireType 0 =*/120).bool(message.unverifiedLazy);
                     if (message.uninterpretedOption != null && message.uninterpretedOption.length)
                         for (var i = 0; i < message.uninterpretedOption.length; ++i)
                             $root.google.protobuf.UninterpretedOption.encode(message.uninterpretedOption[i], writer.uint32(/* id 999, wireType 2 =*/7994).fork()).ldelim();
@@ -38559,6 +38570,9 @@
                             break;
                         case 5:
                             message.lazy = reader.bool();
+                            break;
+                        case 15:
+                            message.unverifiedLazy = reader.bool();
                             break;
                         case 3:
                             message.deprecated = reader.bool();
@@ -38643,6 +38657,9 @@
                     if (message.lazy != null && message.hasOwnProperty("lazy"))
                         if (typeof message.lazy !== "boolean")
                             return "lazy: boolean expected";
+                    if (message.unverifiedLazy != null && message.hasOwnProperty("unverifiedLazy"))
+                        if (typeof message.unverifiedLazy !== "boolean")
+                            return "unverifiedLazy: boolean expected";
                     if (message.deprecated != null && message.hasOwnProperty("deprecated"))
                         if (typeof message.deprecated !== "boolean")
                             return "deprecated: boolean expected";
@@ -38728,6 +38745,8 @@
                     }
                     if (object.lazy != null)
                         message.lazy = Boolean(object.lazy);
+                    if (object.unverifiedLazy != null)
+                        message.unverifiedLazy = Boolean(object.unverifiedLazy);
                     if (object.deprecated != null)
                         message.deprecated = Boolean(object.deprecated);
                     if (object.weak != null)
@@ -38815,6 +38834,7 @@
                         object.lazy = false;
                         object.jstype = options.enums === String ? "JS_NORMAL" : 0;
                         object.weak = false;
+                        object.unverifiedLazy = false;
                         object[".google.api.resourceReference"] = null;
                     }
                     if (message.ctype != null && message.hasOwnProperty("ctype"))
@@ -38829,6 +38849,8 @@
                         object.jstype = options.enums === String ? $root.google.protobuf.FieldOptions.JSType[message.jstype] : message.jstype;
                     if (message.weak != null && message.hasOwnProperty("weak"))
                         object.weak = message.weak;
+                    if (message.unverifiedLazy != null && message.hasOwnProperty("unverifiedLazy"))
+                        object.unverifiedLazy = message.unverifiedLazy;
                     if (message.uninterpretedOption && message.uninterpretedOption.length) {
                         object.uninterpretedOption = [];
                         for (var j = 0; j < message.uninterpretedOption.length; ++j)
@@ -44661,7 +44683,7 @@
                 };
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#listOperations}.
+                 * Callback as used by {@link google.longrunning.Operations|listOperations}.
                  * @memberof google.longrunning.Operations
                  * @typedef ListOperationsCallback
                  * @type {function}
@@ -44694,7 +44716,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#getOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|getOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef GetOperationCallback
                  * @type {function}
@@ -44727,7 +44749,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#deleteOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|deleteOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef DeleteOperationCallback
                  * @type {function}
@@ -44760,7 +44782,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#cancelOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|cancelOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef CancelOperationCallback
                  * @type {function}
@@ -44793,7 +44815,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#waitOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|waitOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef WaitOperationCallback
                  * @type {function}
